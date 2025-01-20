@@ -1,0 +1,6 @@
+langchain
+langgraph
+beautifulsoup4
+langchain-community
+langchain-groq
+langsmith
